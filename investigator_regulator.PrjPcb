@@ -105,7 +105,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LKFKTOOC
 
 [Document5]
-DocumentPath=TPS54528_5V.schdoc
+DocumentPath=TPS54528.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -122,23 +122,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DYOGQEUD
 
 [Document6]
-DocumentPath=TPS54528_6V.schdoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RTIUFOMX
-
-[Document7]
 DocumentPath=LM2587_12v.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
